@@ -1,7 +1,7 @@
 const monthLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 const projectActivity = {
-  'InternationalMC': [0, 3, 2, 2, 5, 8, 8, 9, 6, 3, 0, 0],
+  'InternationalMC': [0, 3, 2, 2, 5, 8, 8, 9, 6, 0, 0, 0],
   'MCUtility': [0, 0, 0, 0, 0, 7, 6, 0, 0, 0, 0, 0],
   'CNEP': [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 2, 0],
   'wejkey.org': [1, 0, 0, 0, 0, 0, 0, 0, 8, 10, 9, 10],
